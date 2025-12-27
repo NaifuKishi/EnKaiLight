@@ -1,0 +1,27 @@
+Identifier = "EnKaiLight"
+Name = "EnKai Light Library"
+Description = "A light version of the EnKai library specifically with the stuff nkUI needs."
+
+Author = "NaifuKishi"
+Email = "naifukishi@gmail.com"
+
+Version = "1.0.0"
+Environment = "4.0"
+
+RunOnStartup = {
+  
+}
+
+Embed = {
+
+}
+
+Dependencies = {
+}
+
+SavedVariables = {
+  nkManagerSettings = "account",
+  EnKaiSetup = "account",
+  EnKaiInv = "account",
+  EnKaiDebug = "account",
+}
